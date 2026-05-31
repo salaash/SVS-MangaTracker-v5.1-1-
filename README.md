@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="icon128.png" width="80" />
 
 # S.V.S Manga Tracker
 
